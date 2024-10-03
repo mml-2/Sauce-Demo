@@ -1,0 +1,9 @@
+2024-10-03 10:32:41,294 INFO  [main] Starting Chrome browser in normal mode...
+2024-10-03 10:32:59,028 INFO  [main] Navigating to page: https://www.saucedemo.com
+2024-10-03 10:33:34,025 INFO  [main] Navigating to page: https://www.saucedemo.com/
+2024-10-03 10:33:34,250 INFO  [main] Finding element with locator: By.xpath: //input[@data-test='username']
+2024-10-03 10:33:35,016 INFO  [main] Finding element with locator: By.xpath: //input[@data-test='password']
+2024-10-03 10:33:35,247 INFO  [main] Finding element with locator: By.xpath: //input[@id='login-button']
+2024-10-03 10:33:35,551 INFO  [main] Finding element with locator: By.xpath: //span[@class='title' and text()='Products']
+2024-10-03 10:33:35,646 INFO  [main] Finding element with locator: By.xpath: //button[contains(@class, 'checkout_button')]
+2024-10-03 10:33:35,696 INFO  [main] Closing Browser...
